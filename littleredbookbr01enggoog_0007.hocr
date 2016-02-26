@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./littleredbookbr01enggoog/littleredbookbr01enggoog_0007.png"; bbox 0 0 6300 7267; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 959 3184 2044 3636">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 959 3184 2044 3636">
+     <span class='ocr_line' id='line_1_1' title="bbox 959 3184 2044 3338; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 959 3187 1135 3336; x_wconf 66' lang='lat' dir='ltr'><strong>(the</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1210 3184 1476 3334; x_wconf 69' lang='lat' dir='ltr'>little</span> <span class='ocrx_word' id='word_1_3' title='bbox 1557 3185 1733 3336; x_wconf 66' lang='lat' dir='ltr'><strong>‘neb</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1811 3188 2044 3338; x_wconf 69' lang='lat' dir='ltr'>ssooh</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1247 3488 1757 3636; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 1247 3488 1331 3635; x_wconf 76' lang='lat' dir='ltr'><strong>ot</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1410 3488 1757 3636; x_wconf 67' lang='lat' dir='ltr'><strong>Briztol.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 3154 7267">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 3154 7267">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 3154 7267; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 3154 7267; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
